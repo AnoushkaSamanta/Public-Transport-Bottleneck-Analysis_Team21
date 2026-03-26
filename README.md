@@ -43,8 +43,31 @@ Public transport delays often snowball into larger network-wide traffic jams, im
 - **Network Cascades:** Propagation edges explicitly exposed the path of delay "domino effects," pinpointing where localized interventions must occur.
 
 ## Key Visualizations
+
+### 1. Comprehensive Delay Dashboard
+![Comprehensive Delay Dashboard](output/plots/comprehensive_delay_dashboard.png)
+
+### 2. Delay Propagation Network
+![Delay Propagation Network](output/plots/delay_propagation_network.png)
+*Maps the domino-effect of delays transmitting across the station network.*
+
+### 3. Clustering Map (PCA View)
+![Cluster Distribution](output/plots/cluster_pc1_pc2.png)
+*Identifies systemic bottlenecks by segregating high-risk hub zones.*
+
+### 4. Classification Models Comparison (ROC Curves)
+![ROC Curves Comparison](output/plots/roc_curves_comparison.png)
+*Evaluates Logistic Regression, Random Forest, and SVM models for predicting categorical delay events.*
+
+### 5. Random Forest Variable Importance
+![RF Variable Importance](output/plots/rf_variable_importance.png)
+*Displays the most significant features contributing to delay predictions.*
+
+### 6. LSTM Actual vs Predicted Forexacting
+![LSTM Actual vs Predicted](output/plots/lstm_actual_vs_predicted.png)
+*Demonstrates the sequence forecasting power of our deep-learning Long Short-Term Memory network.*
+
 - Interactive Delay Network Graph mapping propagation cascades (`plots/interactive_delay_network.html`).
-- PCA variance explanations and spatial cluster profiles.
 - Integrated semantic layers designed for interactive Power BI dashboards summarizing hourly patterns, environmental weather impacts, and system-wide station rankings.
 
 ## How to Run the Project
