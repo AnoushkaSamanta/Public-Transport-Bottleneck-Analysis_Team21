@@ -67,10 +67,10 @@ Delays propagate systematically across public transit hub networks rather than f
 ## Contribution
 | Team Member | Roll Number | Work Completed |
 | :--- | :--- | :--- |
-| **Anoushka Samanta** | 2023BCS0147 | Data preprocessing, initial visualization EDA |
-| **Mayank Verma** | 2023BCS0204 | Model-1 development, evaluation, hyperparameter tuning |
-| **Vidya Karthika** | 2023BCS0096 | Visualization, report writing, PowerBI semantic mapping |
-| **Priyansh Gautam** | 2023BCS0186 | Model-2 development (LSTM deep learning), network propagation analysis |
+| **Anoushka Samanta** | 2023BCS0147 | Dataset loading and profiling , Data cleaning |
+| **Mayank Verma** | 2023BCS0204 | Data transformation and EDA |
+| **Vidya Karthika** | 2023BCS0096 | PCA and ML model training |
+| **Priyansh Gautam** | 2023BCS0186 | Visualisation and report writing |
 
 ## References
 - Generated Datasets & Internal Output Reports: `output/reports/`
