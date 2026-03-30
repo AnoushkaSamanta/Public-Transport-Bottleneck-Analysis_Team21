@@ -6,6 +6,11 @@
 - Vidya Karthika – 2023BCS0096
 - Priyansh Gautam – 2023BCS0186
 
+## Repository Name and Link
+Name : Public-Transport-Bottleneck-Analysis_Team21
+
+Link : https://github.com/AnoushkaSamanta/Public-Transport-Bottleneck-Analysis_Team21
+
 ## Problem Statement
 Public transport delays often snowball into larger network-wide traffic jams, impacting thousands of commuters. The problem we are solving is identifying these systemic bottlenecks and predicting future localized congestion patterns early enough to take proactive measures.
 
